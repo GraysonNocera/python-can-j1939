@@ -1,7 +1,7 @@
 import time
 
 import j1939
-from feeder import Feeder
+from j1939_test.feeder import Feeder
 
 
 

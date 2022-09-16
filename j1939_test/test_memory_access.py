@@ -1,7 +1,7 @@
 import pytest
 import time
 
-from feeder import Feeder
+from j1939_test.feeder import Feeder
 import j1939
 
 
